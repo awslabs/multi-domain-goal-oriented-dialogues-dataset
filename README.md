@@ -14,7 +14,7 @@ pre-processed training, development, and test splits for customer turns used to 
 
 ## License
 
-This project is licensed under the Apache-2.0 License.
+This project is licensed under the CDLA Permissive License. Terms given in LICENSE.txt.
 
 ## Reference
 
